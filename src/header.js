@@ -7,7 +7,7 @@ function Header({children}) {
         <div className="wrapper">
             <div className="header-grid">
                 <div>
-                    <h1>Social Media Dashboard</h1>
+                    <h1>Socials Media Dashboard</h1>
                     <p className="header-total">Total de Followers: 28, 800</p>    
                 </div>
                 {children}
